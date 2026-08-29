@@ -1,0 +1,2 @@
+# Yamimax
+Script termux
